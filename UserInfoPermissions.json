@@ -1,0 +1,378 @@
+[
+    
+            {
+                "Name":"Engagement",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+
+                
+            }
+        ,
+            {
+                "Name":"Reste à payer",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+                
+            }
+        ,
+            {
+                "Name":"Programmes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+            }
+        ,
+            {
+                "Name":"Crédit ouvert",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "Name":"Recettes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+      ,
+            {
+                "Name":"OP",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "Name":"BE",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "Name":"Rejets",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "Name":"Chèques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "Name":"OV",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"OV TGR",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {"Name":"Marchés",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"Name":"Décomptes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"Name":"Arrêts",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"Name":"Variations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Régies",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {"Name":"Régie CO",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Alimentation régie",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":1,
+                "Consulter":1,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":1,
+                "Transferer":1,
+                "Telecharger":1,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Solde TGR",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Utilisateurs",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Etablissements",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"Name":"Rubriques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Nature OP",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Préstations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Type_recette",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Exercices",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        
+   
+]
