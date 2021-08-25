@@ -66,25 +66,25 @@
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transferer":0,
-                "Telecharger":0,
+                "Transferer":1,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
       ,
             {
                 "Name":"OP",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
-                "Ajouter":0,
+                "Ajouter":1,
                 "Modifier":0,
-                "Supprimer":0,
+                "Supprimer":1,
                 "Imprimer":0,
-                "Transferer":0,
+                "Transferer":1,
                 "Telecharger":0,
                 "Verrouiller":0
                 
@@ -92,15 +92,15 @@
         ,
             {
                 "Name":"BE",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
-                "Ajouter":0,
+                "Ajouter":1,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             },
@@ -124,13 +124,13 @@
                 "Name":"Chèques",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
@@ -139,25 +139,25 @@
                 "Name":"OV",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
         ,
             {"Name":"OV TGR",
                 "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Voir_mes_enreg":1,
+                "Consulter":1,
                 "Ajouter":0,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
                 "Telecharger":0,
                 "Verrouiller":0
@@ -165,69 +165,69 @@
             },
         
             {"Name":"Marchés",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
                 "Telecharger":0,
-                "Verrouiller":0
+                "Verrouiller":1
                 
             }
        ,
             {"Name":"Décomptes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
+                "Consulter":1,
+                "Ajouter":1,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
                 "Telecharger":0,
-                "Verrouiller":0
+                "Verrouiller":1
                 
             }
        ,
             {"Name":"Arrêts",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
                 "Modifier":0,
-                "Supprimer":0,
+                "Supprimer":1,
                 "Imprimer":0,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
        ,
             {"Name":"Variations",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
-                "Transferer":0,
+                "Imprimer":1,
+                "Transferer":1,
                 "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
             {"Name":"Régies",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
                 "Telecharger":0,
                 "Verrouiller":0
@@ -235,15 +235,15 @@
             },
         
             {"Name":"Régie CO",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
@@ -253,7 +253,7 @@
                 "Voir_mes_enreg":1,
                 "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":1,
                 "Transferer":1,
@@ -267,73 +267,73 @@
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
         ,
             {"Name":"Utilisateurs",
                 "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
+                "Voir_mes_enreg":1,
                 "Consulter":0,
-                "Ajouter":0,
+                "Ajouter":1,
                 "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transferer":0,
+                "Supprimer":1,
+                "Imprimer":1,
+                "Transferer":1,
                 "Telecharger":0,
-                "Verrouiller":0
+                "Verrouiller":1
                 
             }
         ,
             {"Name":"Etablissements",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transferer":0,
+                "Transferer":1,
                 "Telecharger":0,
-                "Verrouiller":0
+                "Verrouiller":1
                 
             }
        ,
             {"Name":"Rubriques",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
                 "Telecharger":0,
-                "Verrouiller":0
+                "Verrouiller":1
                 
             }
         ,
             {"Name":"Nature OP",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
-                "Consulter":0,
+                "Consulter":1,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
-                "Imprimer":0,
+                "Imprimer":1,
                 "Transferer":0,
-                "Telecharger":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
         ,
             {"Name":"Préstations",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
@@ -368,7 +368,7 @@
                 "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transferer":0,
+                "Transferer":1,
                 "Telecharger":0,
                 "Verrouiller":0
                 
